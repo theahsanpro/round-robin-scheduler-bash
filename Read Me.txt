@@ -1,0 +1,6 @@
+1 - This is just a script to give you a concept of how Round Robin Algorithm works.
+2 - Scripts read the Process names from a file and prints the scheduled output on both terminal and a file.
+3 - To run the test, you will need to provide 2 or 3 positional parameters.
+	1) Name of data file you want to read.
+	2) Name of file you want to store the output in
+	3) Value of Time Quantum (Optional)
